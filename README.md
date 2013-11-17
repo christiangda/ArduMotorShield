@@ -26,4 +26,4 @@ see http://arduino.cc/en/Main/ArduinoMotorShieldR3 for details.
   * The motor should be running as described in the examples
 
 ## Version History:
-  * Version 0.1: The first functional version tested 
+  * Version 0.1: The first functional Tested version
