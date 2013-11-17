@@ -1,5 +1,7 @@
-# ArduMotorShield (Arduino Motor Shield Library)
+# ArduMotorShield 
 
+(Arduino Motor Shield Library)
+==============================
 This library is a basic driver for Arduino Motor Shield R3 (http://arduino.cc/en/Main/ArduinoMotorShieldR3)
 
 ## Overview:
