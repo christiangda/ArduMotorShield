@@ -1,0 +1,71 @@
+##################################################
+# Syntax Coloring Map For ArduMotorShild Library 
+##################################################
+# Class (KEYWORD3)                               
+##################################################
+
+ArduMotorShield	KEYWORD3
+AMS_DCMotor	KEYWORD3
+AMS_StepperMotor	KEYWORD3
+
+##################################################
+# Datatypes (KEYWORD1)                           
+##################################################
+
+motor_t	KEYWORD1
+
+##################################################
+# Methods and Functions (KEYWORD2)               
+##################################################
+
+begin	KEYWORD2
+move	KEYWORD2
+setSpeed	KEYWORD2
+stop	KEYWORD2
+brake	KEYWORD2
+release	KEYWORD2
+releaseBrake	KEYWORD2
+stopAndBrake	KEYWORD2
+throttleUntil	KEYWORD2
+getSpeed	KEYWORD2
+getMove	KEYWORD2
+getBrake	KEYWORD2
+
+##################################################
+# Objects (KEYWORD3)                             
+##################################################
+
+M	KEYWORD3
+M1	KEYWORD3
+M2	KEYWORD3
+M_1	KEYWORD3
+M_2	KEYWORD3
+m	KEYWORD3
+m1	KEYWORD3
+m2	KEYWORD3
+m_1	KEYWORD3
+m_2	KEYWORD3
+m_A	KEYWORD3
+m_B	KEYWORD3
+m_a	KEYWORD3
+m_b	KEYWORD3
+
+##################################################
+# Constants (LITERAL1)                           
+##################################################
+
+FORWARD	LITERAL1
+BACKWARD	LITERAL1
+MIN_SPEED	LITERAL1
+MAX_SPEED	LITERAL1
+AVG_SPEED	LITERAL1
+CHANNEL_A	LITERAL1
+CHANNEL_B	LITERAL1
+PIN_DIR_A	LITERAL1
+PIN_DIR_B	LITERAL1
+PIN_PWM_A	LITERAL1
+PIN_PWM_B	LITERAL1
+PIN_BRK_A	LITERAL1
+PIN_BRK_B	LITERAL1
+PIN_SNS_A	LITERAL1
+PIN_SNS_B	LITERAL1
